@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "sup boarding routers app",
+  "mongoUri": "mongodb+srv://daria:1234qwe@cluster0.amdir.mongodb.net/app?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
